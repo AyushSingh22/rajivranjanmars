@@ -70,4 +70,4 @@
 <br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajivranjanmars)](https://git.io/streak-stats)
-![Rajiv's github activity graph](https://activity-graph.herokuapp.com/graph?username=AyushSingh22&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+![Rajiv's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajivranjanmars&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
